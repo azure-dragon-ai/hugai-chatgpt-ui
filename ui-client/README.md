@@ -1,4 +1,4 @@
-# hugai-ui-client
+# HjhAI Client
 
 ## Project setup
 ```

@@ -1,4 +1,4 @@
-# chatgpt-hugai-ui-admin
+# HjhAI Admin
 
 ## Project setup
 ```
