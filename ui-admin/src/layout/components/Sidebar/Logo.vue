@@ -35,7 +35,7 @@ export default {
   },
   data() {
     return {
-      title: 'HjhAIAdmin',
+      title: 'HjhAI Admin',
       logo: logoImg
     }
   }
