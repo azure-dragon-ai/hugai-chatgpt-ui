@@ -1,6 +1,6 @@
 <template>
   <div class="logo">
-    <el-image style="width: 60px" :lazy="true" :src="require('/src/assets/imgs/logo/HugAiLogo1.png')"  @click="goHome"/>
+    <el-image style="width: 60px" :lazy="true" :src="require('/src/assets/imgs/logo/HjhAiLogo1.png')"  @click="goHome"/>
   </div>
 </template>
 

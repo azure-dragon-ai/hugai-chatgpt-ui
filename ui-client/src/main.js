@@ -9,7 +9,7 @@ import cache from '@/utils/cache'
 import '/src/router/filter/filter';
 import '@/assets/css/elementui.scss'
 import '@/assets/css/style.scss'
-import '@/assets/css/hugai-style.scss'
+import '@/assets/css/hjhai-style.scss'
 import '@/assets/css/globalTransition.scss'
 import '@/assets/css/markdown-theme.css'
 import apiRequest from "/src/utils/request/BaseRequest";
