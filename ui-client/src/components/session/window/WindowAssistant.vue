@@ -5,7 +5,7 @@
   >
     <div class="info-time">
       <img :src="require('/src/assets/imgs/robot4.png')" alt=""/>
-      <span>Hug Ai 助手</span>
+      <span>Hjh AI 助手</span>
       <span>{{itemData.createTime}}</span>
     </div>
     <div class="chat-main-content">
