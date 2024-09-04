@@ -8,8 +8,8 @@
     </div>
     <div class="right-bottom-help">
       <el-popover placement="left" trigger="click">
-        <el-image src="http://chat.static.hootin19.fun/image/HugAi%E4%BA%A4%E6%B5%81%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png"></el-image>        <div slot="reference">
-          <el-tooltip content="QQ交流群" placement="left">
+        <el-image src="https://api.studay.cn:8083/images/site_img/admins/dcc6d5d912e0b23f4b2347142b30516d.webp"></el-image>        <div slot="reference">
+          <el-tooltip content="官方客服" placement="left">
             <span class="iconfont icon-kefu pointer click-box"></span>
           </el-tooltip>
         </div>

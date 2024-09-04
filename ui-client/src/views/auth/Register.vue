@@ -88,7 +88,7 @@
         // 注册请求
         this.$api.post('/module/user/userinfo/register',this.form).then(res => {
           if (res.status){
-            this.$message.success("注册成功，欢迎加入HugAi~~~")
+            this.$message.success("注册成功，欢迎加入HjhAI~~~")
             this.$emit('changeSelect','1')
           }else{
             this.$message.error(res.message)

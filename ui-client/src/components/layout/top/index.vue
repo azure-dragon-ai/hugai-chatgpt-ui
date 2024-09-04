@@ -2,17 +2,11 @@
   <div class="top-header">
     <div class="left-item">
 <!--      <div class="logo">-->
-<!--        <span class="pointer" @click="goHome">HugAi</span>-->
+<!--        <span class="pointer" @click="goHome">HjhAI</span>-->
 <!--      </div>-->
     </div>
 
     <div class="right-item-notice">
-      <div class="item">
-        <a class="pointer promotion" href="https://github.com/TouShang6015/Hugai-chatgpt" target="_blank">github源码入口</a>
-      </div>
-      <div class="item">
-        <a class="pointer promotion" href="http://chat.doc.hootin19.fun" target="_blank">参考文档</a>
-      </div>
       <div class="item">
         <el-badge is-dot class="item">
           <div style="width: 40px">

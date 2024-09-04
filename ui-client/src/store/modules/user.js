@@ -52,7 +52,7 @@ const user = {
           if (res.status){
             setToken(res.data)
             commit('SET_TOKEN', res.data)
-            Message({message: '登陆成功，欢迎来到HugAi~~', type: 'success'})
+            Message({message: '登陆成功，欢迎来到HjhAI~~', type: 'success'})
             commit('CLEAR_DIALOG')
             setTimeout(() => {
               window.location.href = "/"
@@ -72,7 +72,7 @@ const user = {
           if (res.status){
             setToken(res.data)
             commit('SET_TOKEN', res.data)
-            Message({message: '登陆成功，欢迎来到HugAi~~', type: 'success'})
+            Message({message: '登陆成功，欢迎来到HjhAI~~', type: 'success'})
             commit('CLEAR_DIALOG')
             setTimeout(() => {
               window.location.href = "/"
