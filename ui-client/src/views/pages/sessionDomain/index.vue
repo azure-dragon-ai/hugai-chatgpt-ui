@@ -1,7 +1,7 @@
 <template>
   <div class="main">
     <div class="title">
-      <span>欢迎来到场景对话！在这里HugAi能够在某一个领域中为您提供专业性的解答~~</span>
+      <span>欢迎来到场景对话！在这里HjhAI能够在某一个领域中为您提供专业性的解答~~</span>
     </div>
     <div class="search">
       <div class="search-input">
