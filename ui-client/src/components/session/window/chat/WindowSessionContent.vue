@@ -13,7 +13,7 @@
       </el-image>
 
       <span v-if="role === 'user'">{{$store.getters.username}}</span>
-      <span v-else>HugAi 助手</span>
+      <span v-else>HjhAI助手</span>
     </div>
     <div class="content rounded-md">
       <MarkdownView

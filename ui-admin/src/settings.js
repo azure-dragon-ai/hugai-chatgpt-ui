@@ -2,7 +2,7 @@ module.exports = {
   /**
    * @description 网站标题
    */
-  title: 'HugAi Admin',
+  title: 'HjhAIAdmin',
   /**
    * 侧边栏主题 深色主题theme-dark，浅色主题theme-light
    */
