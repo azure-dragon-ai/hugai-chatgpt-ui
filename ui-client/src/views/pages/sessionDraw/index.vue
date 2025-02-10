@@ -29,7 +29,7 @@
   import MjParamForm from "@/views/pages/sessionDraw/type/mj/MjParamForm";
 
   export default {
-    name: "SessionDrawIndex",
+    name: "HjhSessionDrawIndex",
     components: {MjParamForm, SdParamForm, DrawTaskShowList, OpenAiParamForm },
     props:{
       type: { type:String, default: 'sd' },

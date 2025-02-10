@@ -22,7 +22,7 @@
   }
 
   export default {
-    name: "sessionQA",
+    name: "HjhsessionQA",
     components:{IndexChat},
     data(){
       return {

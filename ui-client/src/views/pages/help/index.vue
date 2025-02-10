@@ -26,7 +26,7 @@
   import WindowAssistant from "@/components/session/window/WindowAssistant";
 
   export default {
-    name: "PagesHelp",
+    name: "HjhPagesHelp",
     components: {WindowAssistant, WindowUser},
     data() {
       return {

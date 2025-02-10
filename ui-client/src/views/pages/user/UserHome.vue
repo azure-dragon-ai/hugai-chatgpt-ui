@@ -21,7 +21,7 @@
   import ApiKeyManager from "@/views/pages/user/apikeyManager/index";
 
   export default {
-    name: "UserHome",
+    name: "HjhUserHome",
     components: {ApiKeyInfo, UserInfo,ApiKeyManager},
     data(){
       return{

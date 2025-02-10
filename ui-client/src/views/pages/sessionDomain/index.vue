@@ -20,7 +20,7 @@
   import DeskItem from "@/components/DeskItem/DeskItem";
 
   export default {
-    name: "SessionDomainIndex",
+    name: "HjhSessionDomainIndex",
     components: {DeskItem},
     data(){
       return{

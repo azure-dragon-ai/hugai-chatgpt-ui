@@ -27,7 +27,7 @@
   import {getToken} from "@/utils/auth";
   import UserInfoRight from "@/views/pages/user/userHome/components/UserInfoRight";
   export default {
-    name: "UserInfo",
+    name: "HjhUserInfo",
     components: {UserInfoRight, UserInfoLeft},
     data(){
       return{

@@ -32,7 +32,7 @@
   import GallerySearch from "@/views/pages/gallery/components/Search";
   import GalleryContent from "@/views/pages/gallery/components/Gallery";
   export default {
-    name: "GalleryIndex",
+    name: "HjhGalleryIndex",
     components: { GallerySearch, GalleryContent, GalleryHeader},
     data(){
       return{

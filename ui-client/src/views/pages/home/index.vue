@@ -26,7 +26,7 @@
   import HomeComponentsChat from "@/views/pages/home/components/HomeComponentsChat";
 
   export default {
-    name: "HomeIndex",
+    name: "HjhHomeIndex",
     components: {HomeComponentsChat},
     data() {
       return {
