@@ -62,7 +62,7 @@ export default {
       this.$refs["form"].validate(valid => {
         if (valid) {
           let data = this.user
-          data.avatar = data.avatar.replace("https://testing.wepromo.cn", "")
+          data.avatar = data.avatar.replace("https://testing2.wepromo.cn", "")
           api.updateUserProfile(data).then(response => {
             this.$modal.msgSuccess("修改成功");
             this.$emit('getUser');
